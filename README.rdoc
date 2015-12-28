@@ -1,4 +1,0 @@
-SAMPLE-APP FULL
-admin account
-email:  minhbk.mdv@gmail.com
-pass:   123456
